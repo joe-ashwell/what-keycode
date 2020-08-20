@@ -11,7 +11,7 @@ if (mQ.matches) {
 
   <i class="fa fa-mobile"></i>
   <h1 class="mobile">Oh no!</h1>
-  <p class="mobile">This won't work on mobile or tablets!</p>
+  <p class="mobile">This won't work on mobile or tablets.</p>
 
   `;
 
