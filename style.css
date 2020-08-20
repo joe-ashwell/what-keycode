@@ -13,6 +13,10 @@ div.main-keycode {
   align-content: center;
 }
 
+body {
+  overflow: hidden;
+}
+
 /* ------------ Font styling ------------ */
 
 h1 {
